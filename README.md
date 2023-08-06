@@ -9,6 +9,7 @@ The dataset used in this project was obtained from the Kaggle competition called
 
 ## **Pre-processing**
 To prepare the data for training, we utilized MediaPipe, a popular deep-learning framework for processing multimedia data. MediaPipe helped us extract relevant features and information from the ASL FingerSpelling dataset, ensuring that the input to our model was formatted correctly for effective learning.
+
 ![image](https://github.com/25eliu/SignSense-AI/assets/45324290/d9258153-d4d2-4db7-8d7e-295381e71c08)
 
 ## **Model**
