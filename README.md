@@ -4,6 +4,7 @@ Over 500,000 people across the US and Canada use American Sign Language (ASL) as
 
 ## **Dataset**
 The dataset used in this project was obtained from the Kaggle competition called "ASL FingerSpelling," which can be found at the following link: [ASL FingerSpelling Kaggle Competition]([URL](https://www.kaggle.com/competitions/asl-fingerspelling/data)). The dataset provides a valuable resource for training and evaluating the performance of our model.
+
 ![image](https://github.com/25eliu/SignSense-AI/assets/45324290/a1092d98-0775-4cd5-a3b2-c7bc6c932817)
 
 ## **Pre-processing**
