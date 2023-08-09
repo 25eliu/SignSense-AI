@@ -1,6 +1,6 @@
 # SignSense-AI
 ## **Overview**
-Over 500,000 people across the US and Canada use American Sign Language (ASL) as their primary form of communication and are normally unable to easily communicate with the majority of the population who don't speak ASL. This deep learning model is designed to convert ASL FingerSpelling to Text, facilitating more efficient communication for ASL users when interacting with others.
+Over 500,000 people across the U.S and Canada use American Sign Language (ASL) as their primary form of communication and are normally unable to easily communicate with the majority of the population who don't speak ASL. This deep learning model is designed to convert ASL FingerSpelling to Text, facilitating more efficient communication for ASL users when interacting with others.
 
 ## **Dataset**
 The dataset used in this project was obtained from the Kaggle competition called "ASL FingerSpelling," which can be found at the following link: [ASL FingerSpelling Kaggle Competition]([URL](https://www.kaggle.com/competitions/asl-fingerspelling/data)). The dataset provides a valuable resource for training and evaluating the performance of our model.
